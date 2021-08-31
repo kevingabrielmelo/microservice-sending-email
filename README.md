@@ -1,6 +1,6 @@
 # Microservice para envios de e-mail
 
-## Como utilizar
+## Como utilizar (Futuramente com AWS)
 
 ### Gerar senha de APP conforme documentação: https://support.google.com/accounts/answer/185833
 
